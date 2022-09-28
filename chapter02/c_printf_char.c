@@ -1,4 +1,4 @@
-#include <stdid.h>
+#include <stdio.h>
 
 /**
  * vs code 단축키
